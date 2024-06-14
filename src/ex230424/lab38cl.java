@@ -10,5 +10,6 @@ public class lab38cl {
         else {
             System.out.println("odd");
         }
+
     }
 }
